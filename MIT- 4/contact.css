@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    padding: 60px;
+    padding-top: 20px;
+}
+#name{
+    width: 1000px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#mail{
+    width: 1000px;
+    height: 30px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#submit{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    height: 30px;
+    width: 60px;
+}
+#del{
+    color: red;
+    border:1px solid red;
+    width: 60px;
+    height: 25px;
+    margin-left: 900px;
+    display: none;
+}
+
